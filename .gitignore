@@ -1,0 +1,8 @@
+node_modules
+*stats.json
+build
+package-lock.json
+yarn.lock
+.DS_Store
+yarn-error.log
+buildserver
