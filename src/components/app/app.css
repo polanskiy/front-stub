@@ -1,0 +1,17 @@
+.app {
+    text-align: center;
+
+    &__title {
+        font-size: 1em;
+        color: lightblue;
+    }
+
+    &__nav {
+
+        a {
+            margin: 0 8px;
+            font-size: 1.25em;
+            color: var(--gray);
+        }
+    }
+}
